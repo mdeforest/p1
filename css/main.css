@@ -8,11 +8,11 @@ blockquote {
 }
 
 blockquote footer {
-    font-family: 'Noto Sans', sans-serif;
-    font-size: 0.8em;
-    font-weight: 700;
-    color: #7ea4b7;
-    float: right;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 0.8em;
+  font-weight: 700;
+  color: #7ea4b7;
+  float: right;
 }
 
 blockquote footer::before {
