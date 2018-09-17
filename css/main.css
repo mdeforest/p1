@@ -1,28 +1,20 @@
 blockquote {
   position: relative;
-  font-family: 'Sanchez', serif;
-  font-size: 1.3em;
+  padding-left: 1em;
+  margin-left: 0;
+  border-left: 0.2em solid #3d748f;
+  font-weight: 100;
   line-height: 1.5em;
-}
-
-blockquote::after {
-    content: '\201D';
-    position: absolute;
-    top: 0.28em;
-    right: -50px;
-    font-size: 6em;
-    font-style: italic;
-    color: #d9d9d9;
-    z-index: -1;
 }
 
 blockquote footer {
     font-family: 'Noto Sans', sans-serif;
     font-size: 0.8em;
     font-weight: 700;
-    color: #c5c2c2;
+    color: #7ea4b7;
     float: right;
-  }
+}
+
 blockquote footer::before {
   content: '\2015';
 }
@@ -45,19 +37,11 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 75%;
-}
-
-p {
-  font-family: 'Quicksand';
+  width: 40%;
 }
 
 .container {
-  max-width: 1000px;
+  width: 50%;
   margin: auto;
-}
-
-.top-container {
-  max-width: 500px;
-  margin: auto;
+  font-family: 'Quicksand';
 }
