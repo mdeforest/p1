@@ -26,7 +26,7 @@
       <section>
         <h2>Random Quote</h2>
         <blockquote>
-          <?php echo $csv_array[$rand_num][0]; ?>"
+          <?php echo $csv_array[$rand_num][0]; ?>
           <footer><?php echo $csv_array[$rand_num][1]; ?></footer>
         </blockquote>
       </section>
