@@ -1,3 +1,32 @@
+blockquote {
+  position: relative;
+  font-family: 'Sanchez', serif;
+  font-size: 1.3em;
+  line-height: 1.5em;
+}
+
+blockquote::after {
+    content: '\201D';
+    position: absolute;
+    top: 0.28em;
+    right: -50px;
+    font-size: 6em;
+    font-style: italic;
+    color: #d9d9d9;
+    z-index: -1;
+}
+
+blockquote footer {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 0.8em;
+    font-weight: 700;
+    color: #c5c2c2;
+    float: right;
+  }
+blockquote footer::before {
+  content: '\2015';
+}
+
 h1 {
   font-size: 3.5em;
 }
@@ -9,6 +38,7 @@ h2 {
 h1, h2 {
   text-align: center;
   font-family: 'Titillium Web';
+  color: #737373;
 }
 
 img {
@@ -22,11 +52,12 @@ p {
   font-family: 'Quicksand';
 }
 
-.author {
-  font-style: italic; 
+.container {
+  max-width: 1000px;
+  margin: auto;
 }
 
-.container {
+.top-container {
   max-width: 500px;
   margin: auto;
 }
