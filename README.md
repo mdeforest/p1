@@ -4,10 +4,15 @@
 
 ## Outside resources
 [CSV used to generate random quotes](https://raw.githubusercontent.com/akhiltak/inspirational-quotes/master/Quotes.csv)
+
 [Styling for blockquote](https://codepen.io/frxnz/pen/IvBCr)
+
 ["Noto Sans" Google Font](https://fonts.googleapis.com/css?family=Noto+Sans:400,700)
+
 ["Titillium" Web Google Font](https://fonts.googleapis.com/css?family=Titillium+Web)
+
 ["Quicksand" Google Font](https://fonts.googleapis.com/css?family=Quicksand)
+
 [PHP documentation entry on reading csvs](http://php.net/manual/en/function.fgetcsv.php)
 
 ## Notes for instructor
