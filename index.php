@@ -1,12 +1,14 @@
 <?php require("logic.php"); ?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Michaela DeForest</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Titillium+Web">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Quicksand">
     <link rel="stylesheet" type="text/css" href="css/main.css">
-    <title>Michaela DeForest</title>
   </head>
   <body>
     <div class="container">
