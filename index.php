@@ -3,7 +3,6 @@
 <html>
   <head>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sanchez:400italic,400">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Titillium+Web">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Quicksand">
     <link rel="stylesheet" type="text/css" href="css/main.css">
